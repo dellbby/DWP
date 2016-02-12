@@ -11,10 +11,16 @@
   * create new password for username
 
 3. Update/Upgrade all packages
+  * sudo apt-get upgrade
+  * sudo apt-get update 
+  * sudo aptitude safe-upgrade
+  * sudo reboot
 
 4. Install Apache
+  * sudo apt-get install apache2
 
 5. Install Git
+  * sudo apt-get install git-core
 
 6. Connect git account with local and staging server
 
