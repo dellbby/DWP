@@ -4,7 +4,20 @@
 [http://162.243.247.121/](http://162.243.247.121/)
 
 ## Deployment Plan:
-1. Spin up Server
+1. Create a Server
+
 2. Login to Server and create new user other than root
-⋅⋅*  add user 
-3.
+*  add user “username”
+* create new password for username
+
+3. Update/Upgrade all packages
+
+4. Install Apache
+
+5. Install Git
+
+6. Connect git account with local and staging server
+
+7. Create static website
+
+8. Push files onto git repo through terminal as needed
