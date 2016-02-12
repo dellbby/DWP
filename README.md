@@ -6,5 +6,5 @@
 ## Deployment Plan:
 1. Spin up Server
 2. Login to Server and create new user other than root
-- add user 
+⋅⋅*  add user 
 3.
