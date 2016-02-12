@@ -7,8 +7,8 @@
 1. Create a Server
 
 2. Login to Server and create new user other than root
-*  add user “username”
-* create new password for username
+  * add user “username”
+  * create new password for username
 
 3. Update/Upgrade all packages
 
